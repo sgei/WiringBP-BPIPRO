@@ -90,7 +90,7 @@
 #define	PI_MAKER_QISDA		3
 #define   PI_MAKER_LEMAKER  4  //add for BananaPro by LeMaker team
 
-#define BPRVER 3  //add for BananaPro by lemaker team
+#define BPRVER 2  //add for BananaPro by lemaker team
 
 extern const char *piModelNames    [6] ;
 extern const char *piRevisionNames [5] ;
